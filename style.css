@@ -1,0 +1,117 @@
+.container{
+    background-color: grey; 
+   height: 250px;
+}
+.left {
+    background-color:white;
+    margin-left: 0px;
+   
+}
+.right{
+background-color: white;
+margin-right: 0px;
+}
+
+body{
+    background-image: "C:\Users\hp\Desktop\image-template\background-image.jpg";
+}
+
+.name{
+    margin-top: 100px;
+}
+#enter {
+    margin-top: 100px;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+
+h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  color: rgb(183, 35, 62);
+  font-size: 25px;
+}
+
+h3 {
+  margin-top: 0;
+  font-size: 18px;
+  font-weight: 60;
+}
+
+
+
+.left {
+  width: 50%;
+
+}
+
+.right {
+  width: 50%;
+}
+
+.container {
+  display: flex;
+  width: 100%;
+  background-color: grey;
+}
+.intro{
+  width: 80%;
+}
+.cate{
+  width: 40%;
+
+}
+.insu{
+  width: 40%;
+}
+.contact{
+  width:10%;
+}
+.main{
+  width: 20%;
+}
+.introduction{
+  display: flex;
+}
+.dis{
+  display: flex;
+}
+/*ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  } */
+  
+  /* Change the link color to #111 (black) on hover */
+  /*li a:hover {
+    background-color: #111;
+  }*/
+
+  .nav-bar {
+     background-color: black;
+     color: white;
+     padding: 7px 0;
+     display: flex;
+  }
+
+  .nav-bar  div{
+    text-align: centre;
+    width: 14.28%;
+  }
